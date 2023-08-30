@@ -1,0 +1,77 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1290,
+          "containerStyle": "none",
+          "snapRows": 125,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 71,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "loading1",
+              "isCanvas": false,
+              "displayName": "加载遮罩",
+              "iconSVG": "/static/media/icon.1d5324f2c8ba9dbe53a625929dacb996.svg",
+              "searchTags": [
+                "loading"
+              ],
+              "topRow": 23,
+              "bottomRow": 31,
+              "parentRowSpace": 10,
+              "showLoading": true,
+              "type": "TARO_LOADING_WIDGET",
+              "hideCard": false,
+              "parentColumnSpace": 6.84375,
+              "dynamicTriggerPathList": [],
+              "leftColumn": 24,
+              "dynamicBindingPathList": [],
+              "isMobile": true,
+              "key": "0gl6jeqhh1",
+              "isDeprecated": false,
+              "rightColumn": 40,
+              "detachFromLayout": true,
+              "widgetId": "gb4eiabi78",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false,
+    "icon": "circle"
+  },
+  "deleted": false,
+  "gitSyncId": "64eea7536fbfd93d5cd59598_64eea7536fbfd93d5cd5959a"
+}
